@@ -25,6 +25,7 @@
 @import url(slick.css);
 @import url(jquery-ui.css);
 @import url(nice-select.css);
+@import url(fonts.css);
 
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
@@ -39,7 +40,7 @@ html {
 body {
      color: #666666;
      font-size: 14px;
-     font-family: 'Lato', sans-serif;
+     font-family: "Taipei Sans TC Beta", sans-serif;
      line-height: 1.80857;
      font-weight: normal;
 }

@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Taipei Sans TC Beta';
+  src: local("Taipei Sans TC Beta"),
+     url('../fonts/TaipeiSansTCBeta-Bold.ttf') format("opentype");
+}
