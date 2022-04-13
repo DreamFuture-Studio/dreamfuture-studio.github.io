@@ -74,17 +74,17 @@ h6 {
 
 h1 {
      font-size: 24px;
-     font-family: 'Righteous', cursive;
+     font-family: "Taipei Sans TC Beta", cursive;
 }
 
 h2 {
      font-size: 22px;
-     font-family: 'Righteous', cursive;
+     font-family: "Taipei Sans TC Beta", cursive;
 }
 
 h3 {
      font-size: 18px;
-     font-family: 'Righteous', cursive;
+     font-family: "Taipei Sans TC Beta", cursive;
 }
 
 h4 {
@@ -654,7 +654,7 @@ ul.padding_left2 li img {padding: 0px 10px 0px 30px;}
 }
 
 .cont h3 {
-     font-family: 'Righteous', cursive;
+     font-family: font-family, cursive;
      font-size: 30px;
      line-height: 45px;
      color: #23262d;
